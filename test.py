@@ -16,6 +16,4 @@ def Binarytodecimal(n):
 
 a=Binarytodecimal(101)
 print(a)
-print(11)
-print(12)
-print(10)
+print("present");
